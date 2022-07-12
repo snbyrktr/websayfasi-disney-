@@ -1,0 +1,13 @@
+.Resimslider {
+    height:600px;
+}
+body{
+    font-family: 'Raleway', sans-serif;
+}
+.history{
+    background-color: rgb(236, 154, 167);
+}
+.ayrac{
+    border:none;
+    border-top: 3px solid;
+}
